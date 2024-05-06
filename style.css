@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #caf4ff;
+}
+
+header {
+  margin: 50px 0;
+  height: 220px;
+}
+
+header h1 {
+  margin-bottom: 30px;
+}
+
+header p {
+  margin-bottom: 30px;
+}
+
+header button {
+  padding: 12px 20px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+header .number {
+  font-size: 40px;
+}
+
+main {
+  height: 300px;
+}
+
+main .left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+main .guess {
+  margin-bottom: 35px;
+  outline: 0;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 8px 0;
+  font-size: 14px;
+}
+
+main .check {
+  padding: 12px 20px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 30px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+main .right p {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+main .right .message {
+  font-size: 24px;
+  color: #121481;
+}
