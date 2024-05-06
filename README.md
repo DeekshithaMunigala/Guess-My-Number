@@ -6,7 +6,7 @@ Guess My Number is a simple number guessing game implemented in JavaScript. The 
 ## Deployment
 This project is deployed and accessible online. You can try the game live by following the link below:
 
-[Guess My Number - Play Now!](https://example.com)
+[Guess My Number - Play Now!](https://guess-my-number-delta-two.vercel.app/)
 
 The game is hosted on a server and can be accessed from any web browser. Enjoy playing!
 ## Features
